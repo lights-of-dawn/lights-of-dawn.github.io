@@ -6,8 +6,8 @@ description: 欢迎来到创融聚慧大数据平台，掌握时代新脉搏，�
 baseurl:  # the subpath of your site, e.g. /blog/
 url: https://lights-of-dawn.github.io/ # the base hostname & protocol for your site
 
-twitter_username:aaa
-github_username:lights-of-dawn
+twitter_username: aaa
+github_username: lights-of-dawn
 
 # Build settings
 markdown: kramdown
