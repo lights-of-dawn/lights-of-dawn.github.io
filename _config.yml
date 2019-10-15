@@ -1,13 +1,13 @@
 # Site settings
 encoding: UTF-8
-title: CRJH BigData|创融聚慧大数据平台-智慧新营销
-email: lights-of-dawn at outlook.com
-description: 欢迎来到创融聚慧大数据平台，掌握时代新脉搏，谱写营销新篇章
-baseurl:  # the subpath of your site, e.g. /blog/
-url: https://lights-of-dawn.github.io/ # the base hostname & protocol for your site
+title: "CRJH BigData|创融聚慧大数据平台-智慧新营销"
+email: "lights-of-dawn at outlook.com"
+description: "欢迎来到创融聚慧大数据平台，掌握时代新脉搏，谱写营销新篇章"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://lights-of-dawn.github.io/" # the base hostname & protocol for your site
 
-twitter_username: aaa
-github_username: lights-of-dawn
+twitter_username: "aaa"
+github_username: "lights-of-dawn"
 
 # Build settings
 markdown: kramdown
